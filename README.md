@@ -1,0 +1,4 @@
+* 示例接口为https://docs.ksyun.com/read/latest/116/_book/KLSAPI/ListStreamDurations.html
+* 修改要访问的action, service,和请求参数
+* 修改你的aksk
+* go run main.go
